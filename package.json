@@ -1,0 +1,15 @@
+{
+  "name": "env-confessional",
+  "version": "1.0.0",
+  "description": "Env Var Confessional - Catch missing environment variables before runtime",
+  "main": "env-confessional.js",
+  "bin": {
+    "env-confess": "./env-confessional.js"
+  },
+  "scripts": {
+    "start": "node env-confessional.js"
+  },
+  "keywords": ["env", "environment", "variables", "debugging"],
+  "author": "",
+  "license": "MIT"
+}
